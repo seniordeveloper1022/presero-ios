@@ -1,0 +1,6 @@
+framework module Pods_Presero {
+  umbrella header "Pods-Presero-umbrella.h"
+
+  export *
+  module * { export * }
+}

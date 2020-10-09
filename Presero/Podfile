@@ -1,0 +1,29 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Presero' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Presero
+
+   pod 'MBProgressHUD'
+   pod 'SwiftyJSON'
+   pod 'SDWebImage'
+   pod 'IQKeyboardManagerSwift'
+   pod 'Alamofire', '~> 4.9.0'
+   pod 'CustomIOSAlertView', '~> 0.9.5'
+   pod "PPSSignatureView"
+   pod 'IQDropDownTextField'
+   pod 'RealmSwift'
+
+  target 'PreseroTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'PreseroUITests' do
+    # Pods for testing
+  end
+
+end

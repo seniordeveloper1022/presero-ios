@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (4.9.1)
+  - CustomIOSAlertView (0.9.5)
+  - IQDropDownTextField (2.0)
+  - IQKeyboardManagerSwift (6.5.5)
+  - MBProgressHUD (1.2.0)
+  - PPSSignatureView (0.1.2)
+  - Realm (5.2.0):
+    - Realm/Headers (= 5.2.0)
+  - Realm/Headers (5.2.0)
+  - RealmSwift (5.2.0):
+    - Realm (= 5.2.0)
+  - SDWebImage (5.8.3):
+    - SDWebImage/Core (= 5.8.3)
+  - SDWebImage/Core (5.8.3)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.0)
+  - CustomIOSAlertView (~> 0.9.5)
+  - IQDropDownTextField
+  - IQKeyboardManagerSwift
+  - MBProgressHUD
+  - PPSSignatureView
+  - RealmSwift
+  - SDWebImage
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CustomIOSAlertView
+    - IQDropDownTextField
+    - IQKeyboardManagerSwift
+    - MBProgressHUD
+    - PPSSignatureView
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  CustomIOSAlertView: cc4fa8e36219be3fd5ebcd40789f5b4aaae0f38e
+  IQDropDownTextField: 79293d19042b6f2ee6f02decf4a0e68e59e4f327
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  PPSSignatureView: 746f1fc186dea15c248bc99cc64182f93af131b9
+  Realm: f749c723e272f08fdf1939af5e61d2bd09b203e8
+  RealmSwift: bf0ab78b52c5bafba8b3ad73be8dfb4c1ea5cf01
+  SDWebImage: 112503ec94a5a2a41869503844a15e8d8f1ead5c
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 502fb8cb3c0127c63e49a795a0228ddef967a617
+
+COCOAPODS: 1.9.0
